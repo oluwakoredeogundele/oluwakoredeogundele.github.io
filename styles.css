@@ -5,7 +5,7 @@
     box-sizing: border-box;
 } 
 
-body {background-image: url("/images/pattern-background-desktop.svg"); 
+body {background-image: url("pattern-background-desktop.svg"); 
     background-repeat: no-repeat;
     font-family: 'Red Hat Display', sans-serif;
     min-height: 100vh;
@@ -122,7 +122,7 @@ body {background-image: url("/images/pattern-background-desktop.svg");
           max-width: 85%;
         }
         body {
-          background-image: url("/images/pattern-background-mobile.svg");
+          background-image: url("pattern-background-mobile.svg");
           
         }
         .heading {
